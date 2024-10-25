@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdpTproxyTest", "UdpTproxyTest.csproj", "{AB9AF7FE-A435-4585-AE05-BCE8E3735785}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB9AF7FE-A435-4585-AE05-BCE8E3735785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB9AF7FE-A435-4585-AE05-BCE8E3735785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB9AF7FE-A435-4585-AE05-BCE8E3735785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB9AF7FE-A435-4585-AE05-BCE8E3735785}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEF7A497-7C9B-4836-A83B-7F52976D8959}
+	EndGlobalSection
+EndGlobal
